@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/tictoe/static/css/main.6f358422.css",
-    "main.js": "/tictoe/static/js/main.019e135a.js",
-    "static/js/787.534bd79e.chunk.js": "/tictoe/static/js/787.534bd79e.chunk.js",
-    "index.html": "/tictoe/index.html",
-    "main.6f358422.css.map": "/tictoe/static/css/main.6f358422.css.map",
-    "main.019e135a.js.map": "/tictoe/static/js/main.019e135a.js.map",
-    "787.534bd79e.chunk.js.map": "/tictoe/static/js/787.534bd79e.chunk.js.map"
+    "main.css": "/movieapp/static/css/main.2ff9f85b.css",
+    "main.js": "/movieapp/static/js/main.3e8c7c83.js",
+    "index.html": "/movieapp/index.html",
+    "static/media/search.svg": "/movieapp/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.2ff9f85b.css.map": "/movieapp/static/css/main.2ff9f85b.css.map",
+    "main.3e8c7c83.js.map": "/movieapp/static/js/main.3e8c7c83.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f358422.css",
-    "static/js/main.019e135a.js"
+    "static/css/main.2ff9f85b.css",
+    "static/js/main.3e8c7c83.js"
   ]
 }
